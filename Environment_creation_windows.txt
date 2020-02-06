@@ -1,7 +1,7 @@
 conda create -n DSTIlabs python=3.7
 conda activate DSTIlabs
 conda info
-conda env list 
+conda env list
 conda update python
 conda update --all --yes
 conda install ipykernel
