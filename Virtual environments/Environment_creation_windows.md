@@ -1,3 +1,6 @@
+# Environment creation for Windows
+
+```
 conda create -n DSTIlabs python=3.7
 conda activate DSTIlabs
 conda info
@@ -15,3 +18,4 @@ pip install scikit-learn
 pip install matplotlib
 
 conda update --all --yes
+```
