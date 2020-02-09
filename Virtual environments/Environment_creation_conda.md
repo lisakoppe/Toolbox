@@ -18,7 +18,7 @@ To fix the environment display, the `env_prompt` setting in the `.condarc` file 
 ```
 conda config --set env_prompt '({name})'
 ```
-![See conda's configuration documentation here](https://conda.io/projects/conda/en/latest/user-guide/configuration/index.html).
+📌 [See conda's configuration documentation here](https://conda.io/projects/conda/en/latest/user-guide/configuration/index.html).
 
 #### Installing packages
 ##### Installation from the Anaconda repository
@@ -135,6 +135,6 @@ conda update --all --yes
 ```
 
 #### Further readings: documentation
-- ![Conda package management system](https://docs.conda.io/projects/conda/en/latest/index.html)
-- ![Conda forge distribution](https://conda-forge.org/feedstocks/)
-- ![PyPi: Python Package Index](https://pypi.org/)
+- 📌[Conda package management system](https://docs.conda.io/projects/conda/en/latest/index.html)
+- 📌[Conda forge distribution](https://conda-forge.org/feedstocks/)
+- 📌[PyPi: Python Package Index](https://pypi.org/)
