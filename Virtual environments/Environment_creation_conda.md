@@ -67,11 +67,11 @@ conda search -f seaborn    # search for all the available versions of a certain 
 
 #### Python
 ```
-conda search -f python            # list out the available Python versions 🐍
-conda install python=3.7         # install a specific python version
-conda update python               # update the current Python version
-where python                            # show the locations of all versions of Python that are currently in the path
-python --version                       # show the version of the current active Python
+conda search -f python          # list out the available Python versions 🐍
+conda install python=3.7            # install a specific python version
+conda update python         # update the current Python version
+where python            # show the locations of all versions of Python that are currently in the path
+python --version            # show the version of the current active Python
 ```
 
 #### Jupyter Notebook
